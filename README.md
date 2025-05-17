@@ -5,7 +5,7 @@ Current plan is to calculate within the ranges from monthly to yearly and output
 
 No tax calculation.. yet.
 
-#TODO
+## TODO
 - storing user input to reasonable location with suitable format for data manipulation
 - print database for human readable format for assessment of user's spending
 - default filtering/tags of expenditures (stretch)
